@@ -1,2 +1,2 @@
 # Khalti-Integration-Flutter
-Khalti Integration Using Flutter
+Khalti Payment Integration Using KhaltiScope
