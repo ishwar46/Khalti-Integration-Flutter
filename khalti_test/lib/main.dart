@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return KhaltiScope(
-      //use your public key here
+      //use your public/test key here
       publicKey: '',
       enabledDebugging: true,
       builder: (context, navKey) {
